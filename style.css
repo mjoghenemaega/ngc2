@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  html {
+    font-size: 62.5%;
+  }
+  .container{
+      color: #e98432ec;
+      font-size: 4rem;
+      text-align: center;
+      justify-content: center;
+
+  }
+  body{
+      background-color: rgb(16, 16, 32);
+  }
